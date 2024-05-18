@@ -4,3 +4,6 @@
 [submodule "ansible-playbook-aws-eks"]
 	path = ansible-playbook-aws-eks
 	url = https://github.com/ismail-gits/ansible-playbook-aws-eks.git
+[submodule "ansible-playbook-docker-and-terraform"]
+	path = ansible-playbook-docker-and-terraform
+	url = https://github.com/ismail-gits/ansible-playbook-docker-and-terraform.git
