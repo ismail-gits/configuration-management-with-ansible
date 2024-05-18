@@ -10,3 +10,6 @@
 [submodule "ansible-playbook-dynamic-inventory"]
 	path = ansible-playbook-dynamic-inventory
 	url = https://github.com/ismail-gits/ansible-playbook-dynamic-inventory.git
+[submodule "ansible-playbook-nexus-deployment"]
+	path = ansible-playbook-nexus-deployment
+	url = git@github.com:ismail-gits/ansible-playbook-nexus-deployment.git
