@@ -7,3 +7,6 @@
 [submodule "ansible-playbook-docker-and-terraform"]
 	path = ansible-playbook-docker-and-terraform
 	url = https://github.com/ismail-gits/ansible-playbook-docker-and-terraform.git
+[submodule "ansible-playbook-dynamic-inventory"]
+	path = ansible-playbook-dynamic-inventory
+	url = https://github.com/ismail-gits/ansible-playbook-dynamic-inventory.git
