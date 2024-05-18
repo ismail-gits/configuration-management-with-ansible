@@ -1,0 +1,3 @@
+[submodule "ansible-playbook-with-roles"]
+	path = ansible-playbook-with-roles
+	url = https://github.com/ismail-gits/ansible-playbook-with-roles.git
