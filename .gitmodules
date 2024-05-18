@@ -13,3 +13,6 @@
 [submodule "ansible-playbook-nexus-deployment"]
 	path = ansible-playbook-nexus-deployment
 	url = git@github.com:ismail-gits/ansible-playbook-nexus-deployment.git
+[submodule "ansible-playbook-nodejs-app-deployment"]
+	path = ansible-playbook-nodejs-app-deployment
+	url = https://github.com/ismail-gits/ansible-playbook-nodejs-app-deployment.git
