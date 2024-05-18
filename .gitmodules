@@ -1,3 +1,6 @@
 [submodule "ansible-playbook-with-roles"]
 	path = ansible-playbook-with-roles
 	url = https://github.com/ismail-gits/ansible-playbook-with-roles.git
+[submodule "ansible-playbook-aws-eks"]
+	path = ansible-playbook-aws-eks
+	url = https://github.com/ismail-gits/ansible-playbook-aws-eks.git
